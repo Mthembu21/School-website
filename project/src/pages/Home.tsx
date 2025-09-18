@@ -113,7 +113,7 @@ export default function Home() {
                 className="rounded-2xl shadow-2xl"
               />
               <div className="absolute -bottom-6 -left-6 bg-white text-blue-700 p-6 rounded-xl shadow-lg">
-                <div className="text-2xl font-bold">10</div>
+                <div className="text-2xl font-bold">8+</div>
                 <div className="text-sm">Years of Excellence</div>
               </div>
             </div>
